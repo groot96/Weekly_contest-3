@@ -1,0 +1,62 @@
+
+ #count{
+    display: block;
+    text-align: justify;
+    font-size: 50px;
+    color: white;
+ }
+
+body{
+    background-color: gray;
+}
+
+.box{
+    background-color:black;
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-right: 100px;
+    padding-left: 25px;
+    padding-top: 25px;
+    width: 950px;
+    height: 750px;
+}
+#msg1{
+    font-size: 25px;
+    color:white;
+    display: inline-block;
+
+}
+#count {
+    display: inline-block;
+}
+#res{
+    color: white;
+    background-color: black;
+    border-color: white;
+}
+
+#inc{
+    color: black;
+    background-color: white;
+}
+
+#dec{
+    color: black;
+    background-color: white;
+}
+button{
+    padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  /* display: inline-block; */
+  font-size: 16px;
+  margin: 15px 2px;
+}
+
+h1{
+    color: white;
+}
+/* #lastdiv{
+    border: 1px solid red;
+} */
